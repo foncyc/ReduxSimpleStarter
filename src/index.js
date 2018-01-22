@@ -17,12 +17,12 @@ const App = () => {
     // return <div>Hi!</div>
     return (
         <div>
-            <SearchBar />
+            <SearchBar /> 
         </div>
     );
 }
 
-
+// Test edit
 // Take this component's generated html and put it on the page
 
 ReactDOM.render(<App />, document.querySelector('.container'));
